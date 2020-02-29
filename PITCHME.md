@@ -4,7 +4,7 @@
 
 ### Что такое Docker?
 
-![IMAGE](assets/img/docker-zeppelin.png)
+![IMAGE](assets/img/docker-zeppelin-small.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
