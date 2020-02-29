@@ -1,10 +1,10 @@
-# Let's Get **Started**
+# Введение в **Docker**
 
 ---
 
-### Add Some Slide Candy
+### Что такое Docker?
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/docker-animals.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
