@@ -14,7 +14,7 @@
 
 @title[Add A Little Imagination]
 
-@snap[north-west  text-center]
+@snap[north-west span-50 text-center]
 #### VM vs Container
 @snapend
 
