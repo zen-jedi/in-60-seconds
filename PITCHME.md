@@ -3,9 +3,9 @@
 ---
 
 ### Что такое Docker?
-
+@snap[south span-100]
 ![IMAGE](assets/img/zeppelin-small.png)
-
+@snapend
 ---
 
 @title[Add A Little Imagination]
