@@ -2,7 +2,11 @@
 
 ---
 
+
+@snap[north-west span-50 text-center]
 ### Что такое Docker?
+@snapend
+
 @snap[south span-100]
 ![IMAGE](assets/img/zeppelin-small.png)
 @snapend
