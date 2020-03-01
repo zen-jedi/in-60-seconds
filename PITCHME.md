@@ -11,7 +11,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
-#### VM vs Container
+#### Engage your Audience
 @snapend
 
 @snap[west span-55]
@@ -24,11 +24,11 @@
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/vm-vs-container.png)
+![IMAGE](assets/img/conference.png)
 @snapend
 
 @snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/vm-vs-container.png)
+@img[shadow](assets/img/conference.png)
 @snapend
 
 ---
