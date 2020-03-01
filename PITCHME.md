@@ -16,10 +16,12 @@
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- VM выделяется ресурс, который может простаивать
+- Container использует ядро основной ОС и read only копию bin/libs
+- Container весит **гораздо меньше VM**
+- VM поднимается дольше, чем container
+- **VM изолирован,** а container нет
+- Container легче обновить, чем VM
 @ulend
 @snapend
 
