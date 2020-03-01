@@ -24,11 +24,11 @@
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/conference.png)
+![IMAGE](assets/img/vm-vs-container.png)
 @snapend
 
 @snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/vm-vs-container.png)
 @snapend
 
 ---
