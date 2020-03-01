@@ -4,7 +4,7 @@
 
 
 @snap[north span-90 text-center]
-### Что такое Docker?
+### Что такое **Docker**?
 @snapend
 
 @snap[south span-80]
