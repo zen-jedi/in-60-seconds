@@ -3,18 +3,18 @@
 ---
 
 
-@snap[north-west span-50 text-center]
+@snap[north span-90 text-center]
 ### Что такое Docker?
 @snapend
 
-@snap[south span-90]
+@snap[south span-80]
 ![IMAGE](assets/img/zeppelin-small.png)
 @snapend
 ---
 
 @title[Add A Little Imagination]
 
-@snap[north-west span-50 text-center]
+@snap[north-west  text-center]
 #### VM vs Container
 @snapend
 
