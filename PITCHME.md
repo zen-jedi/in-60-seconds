@@ -1,8 +1,6 @@
 # Введение в **Docker**
 
 ---
-
-
 @snap[north span-90 text-center]
 ### Что такое **Docker**?
 @snapend
@@ -36,6 +34,19 @@
 @snap[south span-100 bg-black fragment]
 @img[shadow](assets/img/vm-vs-container.png)
 @snapend
+
+
+---
+@snap[north span-90 text-center]
+### Компонеты **Docker**
+@snapend
+
+@snap[south span-80]
+![IMAGE](assets/img/docker-architecture.png)
+@snapend
+---
+
+
 
 ---
 
@@ -76,10 +87,6 @@ REFERENCES "forum" ("id");
 
 @snap[west span-55]
 ## Customize the Layout
-@snapend
-
-@snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100]
