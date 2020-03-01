@@ -15,7 +15,7 @@
 @snapend
 
 @snap[west span-55]
-@ul[list-spaced-bullets text-08]
+@ul[list-spaced-bullets text-06]
 - VM выделяется ресурс, который может простаивать
 - Container использует ядро основной ОС и read only копию bin/libs
 - Container весит **гораздо меньше VM**
