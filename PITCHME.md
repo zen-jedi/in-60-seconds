@@ -46,10 +46,6 @@
 @snapend
 ---
 
-
-
----
-
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
 @snapend
