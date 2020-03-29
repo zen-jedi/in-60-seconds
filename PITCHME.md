@@ -12,7 +12,7 @@
 
 ---
 
-@title[Add A Little Imagination]
+@title[Немного определений о **Docker**]
 
 @snap[north-west span-70 text-center]
 #### Немного определений о **Docker**
@@ -28,7 +28,7 @@
 
 ---
 
-@title[Add A Little Imagination]
+@title[Где работает **Docker**?]
 
 @snap[north-west span-50 text-center]
 #### Где работает **Docker**?
@@ -40,7 +40,7 @@
 
 ---
 
-@title[Add A Little Imagination]
+@title[**VM** vs **Container**]
 
 @snap[north-west span-50 text-center]
 #### **VM** vs **Container**
@@ -69,7 +69,7 @@
 
 ---
 
-@title[Add A Little Imagination]
+@title[Что такое ** Docker Engine**?]
 
 @snap[north-west span-70 text-center]
 #### Что такое ** Docker Engine**?
@@ -83,7 +83,7 @@
 
 ---
 
-@title[Add A Little Imagination]
+@title[Компоненты **Docker Engine**]
 
 @snap[north-west span-70 text-center]
 #### Компоненты **Docker Engine** 
@@ -104,7 +104,7 @@
 ---
 
 
-@title[Add A Little Imagination]
+@title[Преимущества и особенности]
 
 @snap[north-west span-50 text-center]
 #### Преимущества и особенности
@@ -128,7 +128,7 @@
 
 ---
 
-@title[Add A Little Imagination]
+@title[Области применения]
 
 @snap[north-west span-50 text-center]
 #### Области применения
@@ -190,6 +190,7 @@ REFERENCES "forum" ("id");
 @[8-9, zoom-12]
 @snapend
 
+---
 
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
