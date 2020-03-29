@@ -55,7 +55,6 @@
 - **Container** весит **гораздо меньше VM**
 - **VM** поднимается дольше, чем **container**
 - **VM изолирован,** а container нет
-- **Container** легче обновить, чем **VM**
 @ulend
 @snapend
 
@@ -63,7 +62,7 @@
 ![IMAGE](assets/img/vm-vs-container.png)
 @snapend
 
-@snap[south span-110 bg-black fragment]
+@snap[south span-100 bg-black fragment]
 @img[shadow](assets/img/vm-vs-container.png)
 @snapend
 
