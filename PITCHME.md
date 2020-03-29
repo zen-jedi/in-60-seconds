@@ -171,7 +171,7 @@
 @snap[north-east span-100 text-08]
 ### Команды Docker
 @snapend
-
+@snap
 ```docker zoom-18
 CREATE TABLE "topic" (
     "id" serial NOT NULL PRIMARY KEY,
@@ -183,7 +183,7 @@ ADD CONSTRAINT forum_id
 FOREIGN KEY ("forum_id")
 REFERENCES "forum" ("id");
 ```
-
+@snapend
 @snap[south span-100]
 @[1-5]
 @[6,7, zoom-13]
