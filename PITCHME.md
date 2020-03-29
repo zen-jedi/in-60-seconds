@@ -168,8 +168,8 @@
 
 ---
 
-@snap[north-east span-100 text-gold text-08]
-Команды Docker
+@snap[north-east span-100 text-08]
+### Команды Docker
 @snapend
 
 ```sql zoom-18
