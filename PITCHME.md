@@ -15,7 +15,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
-#### Немного определений о **Docker**
+#### Немного определений
 @snapend
 @snap[west span-90]
 @ul[list-spaced-bullets text-08]
