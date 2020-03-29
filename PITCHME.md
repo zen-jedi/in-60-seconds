@@ -163,7 +163,7 @@
 ### Компоненты **Docker**
 @snapend
 
-@snap[south span-80]
+@snap[south span-90]
 ![IMAGE](assets/img/docker-architecture.png)
 @snapend
 
