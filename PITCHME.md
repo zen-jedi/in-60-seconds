@@ -46,8 +46,8 @@
 #### **VM** vs **Container**
 @snapend
 
-@snap[west span-55]
-@ul[list-spaced-bullets text-06]
+@snap[west span-60]
+@ul[list-spaced-bullets text-05]
 - **VM** == приложение (связанные библиотеки. исходный код), OS, CPU, RAM, HDD.
 - **Container** == изолированное пространство, приложение (связанные библиотеки. исходный код)
 - **VM** выделяется ресурс, который может простаивать
@@ -59,7 +59,7 @@
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[east span-40]
 ![IMAGE](assets/img/vm-vs-container.png)
 @snapend
 
