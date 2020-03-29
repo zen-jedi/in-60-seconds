@@ -12,11 +12,16 @@
 
 ---
 
+@title[Add A Little Imagination]
+
+@snap[north-west span-50 text-center]
+#### Немного определений о **Docker**
+@snapend
 @snap[west span-90]
-@ul[list-spaced-bullets text-06]
+@ul[list-spaced-bullets text-08]
 - **Docker** — программное обеспечение с открытым исходным кодом, применяемое для разработки, тестирования, доставки и запуска веб-приложений в средах с поддержкой контейнеризации. Он нужен для более эффективного использование системы и ресурсов, быстрого развертывания готовых программных продуктов, а также для их масштабирования и переноса в другие среды с гарантированным сохранением стабильной работы.
-- Изначально Docker использовал LinuX Containers(LXC)
-- Сейчас Docker использует runC (libcontainer)
+- Изначально Docker использовал LinuX Containers(**LXC**)
+- Сейчас Docker использует runC(**libcontainer**)
 @ulend
 @snapend
 
