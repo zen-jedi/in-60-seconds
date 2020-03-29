@@ -63,7 +63,7 @@
 ![IMAGE](assets/img/vm-vs-container.png)
 @snapend
 
-@snap[south bg-black fragment]
+@snap[south span-110 bg-black fragment]
 @img[shadow](assets/img/vm-vs-container.png)
 @snapend
 
