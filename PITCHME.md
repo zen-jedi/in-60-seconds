@@ -12,8 +12,6 @@
 
 ---
 
-@title[Немного определений о **Docker**]
-
 @snap[north-west span-70 text-center]
 #### Немного определений о **Docker**
 @snapend
@@ -28,8 +26,6 @@
 
 ---
 
-@title[Где работает **Docker**?]
-
 @snap[north-west span-50 text-center]
 #### Где работает **Docker**?
 @snapend
@@ -39,8 +35,6 @@
 @snapend
 
 ---
-
-@title[**VM** vs **Container**]
 
 @snap[north-west span-50 text-center]
 #### **VM** vs **Container**
@@ -69,8 +63,6 @@
 
 ---
 
-@title[Что такое ** Docker Engine**?]
-
 @snap[north-west span-70 text-center]
 #### Что такое ** Docker Engine**?
 @snapend
@@ -82,8 +74,6 @@
 @snapend
 
 ---
-
-@title[Компоненты **Docker Engine**]
 
 @snap[north-west span-70 text-center]
 #### Компоненты **Docker Engine** 
@@ -102,9 +92,6 @@
 @snapend
 
 ---
-
-
-@title[Преимущества и особенности]
 
 @snap[north-west span-50 text-center]
 #### Преимущества и особенности
@@ -125,10 +112,7 @@
 ![IMAGE](assets/img/isolation-container.png)
 @snapend
 
-
 ---
-
-@title[Области применения]
 
 @snap[north-west span-50 text-center]
 #### Области применения
@@ -143,7 +127,6 @@
 @ulend
 @snapend
 
-
 ---
 
 @snap[north span-90 text-center]
@@ -153,7 +136,6 @@
 @snap[span-100]
 ![IMAGE](assets/img/vmware-vs-docker-trends.png)
 @snapend
-
 
 ---
 
@@ -168,10 +150,10 @@
 
 ---
 
-@snap[north-east span-100 text-08]
+@snap[north span-100]
 ### Команды Docker
 @snapend
-@snap
+
 ```docker zoom-18
 CREATE TABLE "topic" (
     "id" serial NOT NULL PRIMARY KEY,
@@ -183,11 +165,11 @@ ADD CONSTRAINT forum_id
 FOREIGN KEY ("forum_id")
 REFERENCES "forum" ("id");
 ```
-@snapend
-@snap[south span-100]
-@[1-5]
-@[6,7, zoom-13]
-@[8-9, zoom-12]
+
+@snap[south span-100 text-gray text-08]
+@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
+@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
+@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
 @snapend
 
 ---
