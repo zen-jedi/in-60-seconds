@@ -43,7 +43,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
-#### VM vs Container
+#### **VM** vs **Container**
 @snapend
 
 @snap[west span-55]
