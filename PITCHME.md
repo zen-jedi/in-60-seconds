@@ -151,7 +151,7 @@
 ### **Тренды**
 @snapend
 
-@snap[span-80]
+@snap[span-100]
 ![IMAGE](assets/img/vmware-vs-docker-trends.png)
 @snapend
 
@@ -163,7 +163,7 @@
 ### Компоненты **Docker**
 @snapend
 
-@snap[south span-80]
+@snap[span-100]
 ![IMAGE](assets/img/docker-architecture.png)
 @snapend
 
