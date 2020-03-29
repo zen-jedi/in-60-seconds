@@ -14,8 +14,8 @@
 
 @title[Add A Little Imagination]
 
-@snap[north-west span-50 text-center]
-#### Немного определений
+@snap[north-west span-70 text-center]
+#### Немного определений о **Docker**
 @snapend
 @snap[west span-90]
 @ul[list-spaced-bullets text-07]
@@ -66,7 +66,7 @@
 
 @title[Add A Little Imagination]
 
-@snap[north-west span-50 text-center]
+@snap[north-west span-70 text-center]
 #### Что такое ** Docker Engine**?
 @snapend
 
@@ -80,7 +80,7 @@
 
 @title[Add A Little Imagination]
 
-@snap[north-west span-50 text-center]
+@snap[north-west span-70 text-center]
 #### Элементы **Docker Engine** 
 @snapend
 
