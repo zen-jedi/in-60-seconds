@@ -81,7 +81,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west span-70 text-center]
-#### Элементы **Docker Engine** 
+#### Компоненты **Docker Engine** 
 @snapend
 
 @snap[west span-55]
