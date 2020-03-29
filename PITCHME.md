@@ -167,7 +167,7 @@
 ![IMAGE](assets/img/docker-architecture.png)
 @snapend
 
-----
+---
 
 @snap[north-east span-100 text-pink text-06]
 Команды Docker
