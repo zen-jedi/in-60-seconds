@@ -34,7 +34,7 @@
 #### Где работает **Docker**?
 @snapend
 
-@snap[south span-90]
+@snap[south span-100]
 ![IMAGE](assets/img/w-docker-work.png)
 @snapend
 
