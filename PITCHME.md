@@ -172,7 +172,7 @@
 ### Команды Docker
 @snapend
 
-```sql zoom-18
+```docker zoom-18
 CREATE TABLE "topic" (
     "id" serial NOT NULL PRIMARY KEY,
     "forum_id" integer NOT NULL,
