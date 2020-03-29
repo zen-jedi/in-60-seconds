@@ -169,7 +169,7 @@
 
 ---
 
-@snap[north-east span-100 text-pink text-06]
+@snap[north-east span-100 text-gold text-08]
 Команды Docker
 @snapend
 
