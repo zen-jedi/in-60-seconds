@@ -50,6 +50,12 @@
 @ul[list-spaced-bullets text-06]
 - **VM** == приложение (связанные библиотеки. исходный код), OS, CPU, RAM, HDD.
 - **Container** == изолированное пространство, приложение (связанные библиотеки. исходный код)
+- **VM** выделяется ресурс, который может простаивать
+- **Container** использует ядро основной ОС и read only копию bin/libs
+- **Container** весит **гораздо меньше VM**
+- **VM** поднимается дольше, чем **container**
+- **VM изолирован,** а container нет
+- **Container** легче обновить, чем **VM**
 @ulend
 @snapend
 
@@ -102,15 +108,15 @@
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
-#### Преимущества и особенновсти
+#### Преимущества и особенности
 @snapend
 
 @snap[west span-55]
-@ul[list-spaced-bullets text-06]
+@ul[list-spaced-bullets text-07]
 - Изолированность
 - Портативность
 - Быстрая доставка и развёртывание приложений
-- open-source
+- **open-source**
 - cross-platform
 - Написан на Go
 @ulend
@@ -130,13 +136,11 @@
 @snapend
 
 @snap[west span-55]
-@ul[list-spaced-bullets text-06]
+@ul[list-spaced-bullets text-07]
 - Контейнеризация Web-приложений
 - Построение отказоустойчивых систем
-- Быстрая доставка и развёртывание приложений
-- open-source
-- cross-platform
-- Написан на Go
+- Быстрая доставка и развёртывание приложений (**Zero downtime**)
+
 @ulend
 @snapend
 
@@ -147,7 +151,7 @@
 ### **Тренды**
 @snapend
 
-@snap[south span-80]
+@snap[north span-80]
 ![IMAGE](assets/img/vmware-vs-docker-trends.png)
 @snapend
 
@@ -155,9 +159,8 @@
 ---
 
 
-
 @snap[north span-90 text-center]
-### Компонеты **Docker**
+### Компоненты **Docker**
 @snapend
 
 @snap[south span-80]
