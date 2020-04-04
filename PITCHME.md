@@ -150,6 +150,29 @@
 
 ---
 
+@snap[north-west span-70 text-center]
+#### Образы
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-06]
+- **Сервер** - выполняет инициализацию демона (фоновой программы), который применяется для управления и модификации контейнеров, образов и томов.
+- **REST API** — механизм, отвечающий за организацию взаимодействия Докер-клиента и Докер-демона.
+- **Клиент** — позволяет пользователю взаимодействовать с сервером при помощи команд, набираемых в интерфейсе (CLI).
+@ulend
+@snapend
+
+@snap[east span-45]
+![IMAGE](assets/img/docker-layers.png)
+@snapend
+
+@snap[south span-100 bg-black fragment]
+@img[shadow](assets/img/union-layers.png)
+@snapend
+
+---
+
+
 @snap[north span-100]
 ### Команды Docker
 @snapend
@@ -186,8 +209,4 @@ REFERENCES "forum" ("id");
 
 @snap[west span-55]
 ## Customize the Layout
-@snapend
-
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
