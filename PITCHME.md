@@ -166,7 +166,7 @@
 ![IMAGE](assets/img/docker-layers.png)
 @snapend
 
-@snap[south span-90 bg-black fragment]
+@snap[south span-80 bg-black fragment]
 @img[shadow](assets/img/union-layers.png)
 @snapend
 
